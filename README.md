@@ -1,5 +1,5 @@
-![image](https://github.com/kennedysevilha/Ebook-gerado-por-I.A/assets/115608890/99346313-a44f-4e96-a1f2-b21410e6e16f)# Ebook-gerado-por-I.A
-Projeto gerado para curso sobre inteligência artificial, no qual utiliza diferentes I.As
+# Ebook-gerado-por-I.A
+Projeto gerado para curso sobre inteligência artificial, no qual utiliza diferentes I.As para criar um ebook simples
 
 
 -------
@@ -7,7 +7,7 @@ Projeto gerado para curso sobre inteligência artificial, no qual utiliza difere
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="Projeto Ebook/ImagemIA.jpeg"
     width="400"  
 />
 </p>
@@ -15,7 +15,7 @@ Projeto gerado para curso sobre inteligência artificial, no qual utiliza difere
 
 
 Clique para ler o livro completo, todos os prompts para sua criação seguem a baixo.
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/kennedysevilha/Ebook-gerado-por-I.A/blob/main/Projeto%20Ebook/Ebook.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
